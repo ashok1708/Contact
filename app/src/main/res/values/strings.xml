@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Create Contact</string>
+
+    <string name="PhoneSpinner">
+
+        <item>Mobile</item>
+        <item>Work</item>
+        <item>Home</item>
+
+    </string>
+    <string-array name="group_array">
+
+
+        <item> Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+
+    </string-array>
+
+</resources>
